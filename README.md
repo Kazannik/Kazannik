@@ -19,7 +19,7 @@ IDEs/Editors:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazannik)](https://github.com/kazannik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazannik)]
 
 <!--
 **Kazannik/Kazannik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
